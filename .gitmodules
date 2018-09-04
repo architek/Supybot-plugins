@@ -1,0 +1,3 @@
+[submodule "__Repos__/limnoria-plugins-spiffy"]
+	path = __Repos__/limnoria-plugins-spiffy
+	url = https://github.com/architek/limnoria-plugins-spiffy.git
