@@ -1,3 +1,5 @@
+Be sure to clone this repository with git clone --recursive https://github.com/architek/Supybot-plugins.git
+
 A bunch of plugins for Supybot / Limnoria I either wrote myself or found on the
 net and improved. Plugins that require HTTPd aren't compatible with 
 Supybot or gribble. If you cannot load these plugins in Limnoria, please 
