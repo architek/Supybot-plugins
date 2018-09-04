@@ -1,3 +1,6 @@
 [submodule "__Repos__/limnoria-plugins-spiffy"]
 	path = __Repos__/limnoria-plugins-spiffy
 	url = https://github.com/architek/limnoria-plugins-spiffy.git
+[submodule "__Repos__/yggscr"]
+	path = __Repos__/yggscr
+	url = https://github.com/architek/yggscr.git
