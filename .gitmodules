@@ -4,3 +4,4 @@
 [submodule "__Repos__/yggscr"]
 	path = __Repos__/yggscr
 	url = https://github.com/architek/yggscr.git
+	branch = master
